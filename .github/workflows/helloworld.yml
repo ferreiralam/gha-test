@@ -12,3 +12,4 @@ jobs:
       - run: env
       - run: pwd
       - run: echo "Hello GHSCD 2024!"
+      - run: echo ${{ secrets.SEGREDO}}
