@@ -8,4 +8,4 @@ jobs:
         - run: |
             id
             uname -a
-        - uses: ferreiralam/fake-gha@v6
+        - uses: ferreiralam/fake-gha
